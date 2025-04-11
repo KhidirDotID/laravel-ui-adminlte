@@ -1,5 +1,5 @@
 {
-    "name": "infyomlabs/laravel-ui-adminlte",
+    "name": "khidirdotid/laravel-ui-adminlte",
     "description": "Laravel frontend preset for AdminLTE Theme",
     "keywords": [
         "laravel",
@@ -10,15 +10,15 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Mitul Golakiya",
-            "email": "me@mitul.me"
+            "name": "Khidir Zahid",
+            "email": "khidirdotid@gmail.com"
         }
     ],
     "require": {
         "php": "^8.1",
-        "illuminate/support": "^10.0",
-        "infyomlabs/laravel-generator-helpers": "^5.0",
-        "laravel/ui": "^4.2"
+        "illuminate/support": "^10.0|^11.0|^12.0",
+        "khidirdotid/laravel-generator-helpers": "^1.0",
+        "laravel/ui": "^4.6"
     },
     "autoload": {
         "psr-4": {
@@ -34,8 +34,8 @@
     },
     "funding": [
         {
-            "type": "opencollective",
-            "url": "https://opencollective.com/infyomlabs"
+            "type": "saweria",
+            "url": "https://saweria.co/khidirdotid"
         }
     ],
     "minimum-stability": "dev",
